@@ -1,14 +1,51 @@
-Expense Tracker App
-This website will track your expense and income and record your expenditures and savings to give you a clear estimate of your balance left and your money.
-This website is made using Reactjs and React styled components , hooks , props.
+# Expense Tracker App
 
-Website is live at link : https://expense-tracker-lokesh.netlify.app/
+A responsive Expense Tracker application built using **React.js** that helps users manage their income, expenses, and savings while keeping track of their remaining balance.
 
-Demo Video : 
+## 🚀 Features
+- Track income and expenses.
+- Record and manage daily transactions.
+- Monitor your remaining balance.
+- View your spending and savings.
+- Simple and user-friendly interface.
 
-https://user-images.githubusercontent.com/93420193/182840163-a58979be-56f0-403f-95c9-18aff27ee032.mp4
+## 🛠️ Technologies Used
+- React.js
+- JavaScript
+- React Hooks
+- Props
+- Styled Components
+- CSS
 
-Demo images : 
-<img width="958" alt="track1" src="https://user-images.githubusercontent.com/93420193/182840204-a33e60f1-49ef-48bc-b5fd-fcff6b69daa2.png">
-<img width="960" alt="track2" src="https://user-images.githubusercontent.com/93420193/182840206-f08404a8-3d99-4f35-9663-f1e3d1cd7371.png">
-<img width="960" alt="track4" src="https://user-images.githubusercontent.com/93420193/182840212-22ccbf99-5086-492e-a2ed-81695b5c4fca.png">
+## 🌐 Live Demo
+[Visit Expense Tracker](https://expense-tracker-lokesh.netlify.app/)
+
+## 📸 Screenshots
+_Add your project screenshots here._
+
+## ⚙️ Installation and Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/krititehariya30/Expense-Tracker.git
+   ```
+
+2. Navigate to the project folder:
+   ```bash
+   cd Expense-Tracker
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+
+## 👩‍💻 Author
+**Kriti Tehariya**
+
+GitHub: [krititehariya30](https://github.com/krititehariya30)
